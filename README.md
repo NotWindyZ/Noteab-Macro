@@ -1,4 +1,8 @@
-# Noteab-Biome-Macro
+# Noteab-Biome-Macro (IMPORTANT)
+# (IMPORTANT) PLEASE GO TO THIS REPO FOR A LATEST DEVELOPMENT (I ALREADY DROPPED THIS PROJECT LONG AGO): https://github.com/xVapure/Noteab-Macro
+# (IMPORTANT) PLEASE GO TO THIS REPO FOR A LATEST DEVELOPMENT (I ALREADY DROPPED THIS PROJECT LONG AGO): https://github.com/xVapure/Noteab-Macro
+# (IMPORTANT) PLEASE GO TO THIS REPO FOR A LATEST DEVELOPMENT (I ALREADY DROPPED THIS PROJECT LONG AGO): https://github.com/xVapure/Noteab-Macro
+
 Application made for Roblox Sol's RNG biome tracking (And merchant sniping lol)
 
 # Install my macro in here:
@@ -15,3 +19,4 @@ Or you can ahead to this virus scanner and scan the biome macro by yourself: htt
 
 # For any developer who want to take source code of my biome macro for distribution:
 - Make sure to read "NOTICE.txt" to see further about crediting, distribute your macro that include my code!
+
